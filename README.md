@@ -11,9 +11,9 @@ Instruções para execução de teste Cypress:
 
 4º Passo: Dentro do projeto, abrir terminal e executar seguinte comandos:
   
-  > npm install
-  > npm install cypress
-  > npx cypress open
+    > npm install
+    > npm install cypress
+    > npx cypress open
 
 5º Passo: Com Cypress aberto, clique em "E2E Testing"
 
